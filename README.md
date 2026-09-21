@@ -230,4 +230,4 @@ RACE On is available as a full free version, including all features and updates.
 Get ready to hit the tracks and experience the excitement of racing with RACE On! Download now and join the competition!
 
 ---
-**Last updated:** 2026-09-21 06:00:19 UTC
+**Last updated:** 2026-09-21 13:36:21 UTC
